@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Se você utilizar os scripts ou dados deste repositório, por favor cite-o usando os metadados abaixo."
+authors:
+  - family-names: "[Seu Sobrenome]"
+    given-names: "[Seu Nome]"
+    orcid: "https://orcid.org[0000-0000-0000-0000]"
+title: "[Título do Repositório ou do Artigo]"
+version: 1.0.0
+date-released: 2026-11-16
+url: "https://github.com[SEU-USUARIO]/[NOME-DO-REPOSITORIO]"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "[Seu Sobrenome]"
+      given-names: "[Seu Nome]"
+  title: "[Título Completo do Artigo Científico]"
+  journal: "[Nome da Revista ou Conferência]"
+  year: 2026
+  doi: "[10.xxxx/xxxxx]"
